@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://begueloi.github.io/sitemap
+Sitemap: https://begueloi.github.io/app/sitemap
+Sitemap: https://begueloi.github.io/assets/sitemap
+Sitemap: https://begueloi.github.io/css/sitemap
+Sitemap: https://begueloi.github.io/includes/sitemap
+Sitemap: https://begueloi.github.io/item/sitemap
+Sitemap: https://begueloi.github.io/src/sitemap
